@@ -1,7 +1,7 @@
 
-###
 
-<h3 align="center">look at this cool stuff i like 
+
+
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang logo"  />
@@ -13,6 +13,4 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
   <img width="12" />
 </div>
-</h3>
-
 <img src="https://raw.githubusercontent.com/giocld/giocld/output/snake.svg" alt="Snake animation" />
