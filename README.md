@@ -9,4 +9,4 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
   <img width="12" />
 </div>
-<img src="https://raw.githubusercontent.com/giocld/giocld/output/snake.svg" alt="Snake animation" />
+
