@@ -1,4 +1,4 @@
- <div align="center"> cool snake bro</div>
+ <div align="center"> be impressed by my cool snake</div>
 <img src="https://raw.githubusercontent.com/giocld/giocld/output/snake.svg" alt="Snake animation" />
  
   <div align="center">
